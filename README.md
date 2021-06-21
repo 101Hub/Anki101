@@ -31,13 +31,16 @@
 <table border="0" align='center'>
 <tr>
 
-<td><a href=''><img src='assets/learning.svg' align='center' alt='Learning' width='100' height='100' /></a><p align='center'><b>Learning</b></p></td>
-<td><a href=''><img src='assets/templates.svg' align='center' alt='Templates'  width='100' height='100' /></a><p align='center'><b>Templates</b></p></td>
-<td><a href=''><img src='assets/practice.svg' align='center' alt='Practice' width='100' height='100' /></a><p align='center'><b>Practice</b></p></td>
+<td><a href='./Learning.md'><img src='assets/learning.svg' align='center' alt='Learning' width='100' height='100' /></a><p align='center'><b>Learning</b></p></td>
+<td><a href='./Templates.md'><img src='assets/templates.svg' align='center' alt='Templates'  width='100' height='100' /></a><p align='center'><b>Templates</b></p></td>
+<td><a href='./Practice.md'><img src='assets/practice.svg' align='center' alt='Practice' width='100' height='100' /></a><p align='center'><b>Practice</b></p></td>
 </table>
 </div>
 
 ## Discussions 
+
+◉ **Disscussion**
+
 ## Statistic
 
 ![](https://profile-counter.glitch.me/thu-zhanghl-Anki101/count.svg)

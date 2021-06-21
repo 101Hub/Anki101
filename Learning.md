@@ -7,7 +7,7 @@
 
 ## Theory
 
-**Spaced Repetition & Active Recall Testing**
+### **Spaced Repetition & Active Recall Testing**
 
 - [How To Remember Anything Forever-ish (ncase.me) ](https://ncase.me/remember/)
 
