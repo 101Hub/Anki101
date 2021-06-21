@@ -2,8 +2,9 @@
 <div align="center">
 <img src="./assets/anki.webp" alt="anki" width='100' height='100' >
 <h1 align="center">𝐀𝐧𝐤𝐢 𝟏𝟎𝟏</h1>
-<img src="https://img.shields.io/badge/Organization-101Hub-blue" alt="101Hub"/>
-<a href=""><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href=""><img src="https://img.shields.io/badge/Organization-101Hub-blue?style=flat-square&logo=github" alt="101Hub"/></a>
+<a href=""><img src="https://img.shields.io/badge/Project-101-blue?style=flat-square&logo=github" alt="101Project"/></a>
+<a href=""><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat-square&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <br>
 <img src='' alt='' width='' height=''>
 <i><b>Awesome Anki for Everyone !</b></i>
@@ -17,13 +18,13 @@
 </div>
 
 ## Toc
-- [Anki 101](#anki-101)
+- [Anki](#anki)
 - [Discussions](#discussions)
 - [Statistic](#statistic)
 - [Contributors](#contributors)
 - [License](#license)
 
-## Anki 101
+## Anki
 
 <br>
 <div align='center'>
@@ -33,17 +34,19 @@
 <td><a href=''><img src='assets/learning.svg' align='center' alt='Learning' width='100' height='100' /></a><p align='center'><b>Learning</b></p></td>
 <td><a href=''><img src='assets/templates.svg' align='center' alt='Templates'  width='100' height='100' /></a><p align='center'><b>Templates</b></p></td>
 <td><a href=''><img src='assets/practice.svg' align='center' alt='Practice' width='100' height='100' /></a><p align='center'><b>Practice</b></p></td>
-<td></td>
 </table>
 </div>
-<br >
 
 ## Discussions 
 ## Statistic
 
-![](https://profile-counter.glitch.me/thu-zhanghl/count.svg)
+![](https://profile-counter.glitch.me/thu-zhanghl-Anki101/count.svg)
 
 ## Contributors
+
+<a href="https://github.com/thu-zhanghl/anki101/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thu-zhanghl/anki101" />
+</a>
 
 ## License
 
