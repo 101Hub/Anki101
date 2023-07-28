@@ -17,13 +17,6 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-anki101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/thu-zhanghl/Anki101?color=2b9348" alt="License Badge"/></a>
 </div>
 
-## Toc
-- [Anki](#anki)
-- [Discussions](#discussions)
-- [Statistic](#statistic)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Anki
 
 <br>
@@ -39,7 +32,7 @@
 
 ## Discussions 
 
-◉ **Disscussion**
+◉ **[💬Disscussion](https://github.com/101Hub/Anki101/discussions)**
 
 ## Statistic
 
